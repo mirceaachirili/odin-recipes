@@ -1,0 +1,17 @@
+.title {
+    background-color: tan;
+    color: red;
+    text-align: center;
+
+}
+
+ul {
+    background-color: tan;
+
+}
+
+li {
+    text-align: center;
+    list-style-position: inside;
+    font-size: large;
+}
